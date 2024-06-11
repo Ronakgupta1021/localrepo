@@ -1,0 +1,76 @@
+ *{
+    padding: 0;
+    margin: 0;
+ 
+ }
+ body{
+    background-color: bisque;
+ }
+ header{
+    
+    position: sticky;
+ }
+ div{
+    
+    display: inline-block;
+ }
+
+ img{
+    margin: 20%;
+   
+}
+#inline{
+    margin-left: 70px;
+    display: flex;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+a{
+    margin-right: 50px;
+}
+#click{
+    padding-right: 50px;
+}
+.items{
+    margin-top: 25px;
+    margin-left: 90px;
+    }
+.forlog{
+    margin-left: 100px
+} 
+.blue-button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 2%;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.blue-button:hover {
+    background-color: darkblue;
+  
+
+  } 
+#forh1{
+    font: 90px "clash display",sans-serif;
+    display: inline-block;
+    margin-left: 150px;
+    margin-top: 80px;
+}  
+#forp{
+    font: 18px "inter", sans-serif;
+    margin-top: 40px;
+    margin-left: 150px;
+    display: inline-block;
+}
+#chat{
+    width: 500px;
+    height: 470px;
+    margin-top: -400px;
+    margin-left: 850px;
+    display: inline-block;
+}
