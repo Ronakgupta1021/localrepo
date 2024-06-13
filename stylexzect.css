@@ -74,7 +74,7 @@ a{
     position: fixed;
     top: 0;
     width: 100%;
-    background: rgb(0,0,0,0.2);
+    background: rgba(181, 165, 165, 0.2);
 }
 #btns{
     
@@ -121,4 +121,26 @@ a{
 }
 .checked{
     color: orange;
+
+}
+#image-container{
+    width: 100%;
+    position: absolute;
+    left: -180px;
+    top: 500px;
+}
+
+.image {
+    display: inline-block;
+    margin-right: -190px; /* Adjust the distance between images */
+}
+.blue{
+    height: 1500px;
+    width: 100%;
+    background-color: #1131d2cc;
+    border-radius: 5%;
+}
+.chat2{
+    position: absolute;
+    left:20px;
 }
