@@ -186,14 +186,48 @@ a{
 }
 #forp3{
     font: 18px "inter", sans-serif;
-   padding-left: 100px; 
+   
    color: white;
    display: inline-block;
+   position: absolute;
+   top:200px;
+   left:100px;
    
 }
 .chat3{
     display:block;
      margin-top: -140px;
     margin-left: 890px;
-
+}
+.linelink1{
+    position: absolute;
+    left:100px ;
+    top:300px;
+    padding-top: 40px;
+    color: white;
+    font: 80px;
+    text-decoration: none;
+}
+.linelink2{
+    position: absolute;
+    left:100px ;
+    top:380px;
+    padding-top: 30px;
+    color: white;
+    font: 80px;
+    text-decoration: none;
+}
+.linelink3{
+    position: absolute;
+    left:100px ;
+    top:460px;
+    padding-top: 30px;
+    color: white;
+    font: 80px;
+    text-decoration: none;
+}
+.centerheading{
+    text-align: center;
+    font: 70px "clash display",sans-serif;
+    margin-top: 50px;
 }
